@@ -1,1 +1,1 @@
-module.exports = require('./lib/NumberEditor');
+module.exports = require('./src/NumberEditor');
